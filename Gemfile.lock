@@ -15,9 +15,6 @@ GEM
     mechanize (1.0.0)
       nokogiri (>= 1.2.1)
     nokogiri (1.4.2)
-    rack (1.2.1)
-    rack-test (0.5.4)
-      rack (>= 1.0)
     rspec (2.0.0.beta.17)
       rspec-core (= 2.0.0.beta.17)
       rspec-expectations (= 2.0.0.beta.17)
@@ -28,10 +25,6 @@ GEM
     rspec-mocks (2.0.0.beta.17)
     term-ansicolor (1.0.5)
     trollop (1.16.2)
-    webrat (0.7.1)
-      nokogiri (>= 1.2.0)
-      rack (>= 1.0)
-      rack-test (>= 0.5.3)
 
 PLATFORMS
   ruby
@@ -40,4 +33,3 @@ DEPENDENCIES
   cucumber (= 0.8.5)
   mechanize (= 1.0.0)
   rspec (= 2.0.0.beta.17)
-  webrat (= 0.7.1)
