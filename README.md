@@ -1,6 +1,6 @@
-# Cucumber / Mechanize Example
+# Testing Remote Websites With Cucumber and Mechanize
 
-This is a very simple example of how to use [cucumber](http://cukes.info/) and
+This is a minimal example of how to use [cucumber](http://cukes.info/) and
 [mechanize](http://mechanize.rubyforge.org/) to test a remote website.
 
 ## Usage
